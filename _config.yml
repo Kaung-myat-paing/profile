@@ -21,7 +21,7 @@ description: Senior Web Developer
 github: https://github.com/Kaung-myat-paing/ 
 email: mailto:kmyat5258@gmail.com
 facebook: https://facebook.com/kmyat.me
-rss: true
+rss: false
 
 plugins:
   - rouge
