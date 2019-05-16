@@ -14,11 +14,12 @@ defaults:
     values:
       image: true
 
-title: Minimalism
+title: KMP
 name: Kaung Myat Paing
-description: Hello World
+description: Senior Web Developer
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/Kaung-myat-paing/
+
 rss: true
 
 plugins:
