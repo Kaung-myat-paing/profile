@@ -51,6 +51,10 @@
           {% if site.rss and site.rss == true %}
           <span><a href="/feed.xml" target="_blank"><i class="fa fa-rss"></i></a></span>
           {% endif %}
+          {% if site.facebook %}
+          <span><a href="{{ site.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a></span>
+          {% endif %}
+          
         </p>
       </div>
     </div>
