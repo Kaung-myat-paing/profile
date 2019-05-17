@@ -15,6 +15,7 @@ defaults:
       image: true
 
 title: KMP
+short-title:Back
 name: Kaung Myat Paing
 description: Junior Web Developer
 
