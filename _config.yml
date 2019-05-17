@@ -14,7 +14,7 @@ defaults:
     values:
       image: true
 
-title: KMP
+title: KMP-Developer
 short_title: Back
 name: Kaung Myat Paing
 description: Junior Web Developer
@@ -22,6 +22,7 @@ description: Junior Web Developer
 github: https://github.com/Kaung-myat-paing/ 
 email: mailto:kmyat5258@gmail.com
 facebook: https://facebook.com/kmyat.me
+instagram: https://www.instagram.com/kgmyatpaing/
 rss: false
 
 plugins:
